@@ -1,1 +1,1 @@
-
+BlogCraft is an AI-powered blog generation tool that leverages the power of Google Gemini 1.5 Pro to automatically create blog posts. By providing a blog title, relevant keywords, and a desired word count, users can generate high-quality, informative, and engaging content effortlessly. This project aims to simplify the blog-writing process for bloggers, marketers, and anyone looking to quickly produce well-written articles on various topics.
