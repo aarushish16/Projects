@@ -1,1 +1,1 @@
-
+An agent is a program where an LLM gets to call functions you wrote, look at the results, and decide what to do next — without you hardcoding the sequence.A normal script: you decide which function runs when. An agent: the LLM decides, based on the situation. That's the whole shift. Everything else is variations on that theme.
